@@ -8,7 +8,7 @@ public class Hello {
 		
 		//À¶ÊÝ
 		
-		
+		//
 	}
 
 }
